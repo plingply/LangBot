@@ -62,11 +62,10 @@
         },
         {
             "adapter": "gewechat",
-            "enable": false,
-            "gewechat_url": "http://your-gewechat-server:2531",
-            "gewechat_file_url": "http://your-gewechat-server:2532",
+            "enable": true,
+            "gewechat_url": "http://gewe:2531",
             "port": 2286,
-            "callback_url": "http://your-callback-url:2286/gewechat/callback",
+            "callback_url": "http://langbot:2286/gewechat/callback",
             "app_id": "",
             "token": ""
         },
